@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import './App.css'
-import TodoItem from './componet/Todoitem'
+import TodoItem from './componet/TodoItem'
 
 const mockdata = [
   {id : 0, content : "청소하기" },
